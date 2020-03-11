@@ -14,7 +14,7 @@ Example Visual Studio Code Configuration
 Includes
 
 * [php](https://php.net/) (7.4.3)
-* [composer](https://github.com/composer/composer) (1.10)
+* [composer](https://github.com/composer/composer) (1.10.0)
 * [PHIVE](https://phar.io/) (0.13.2)
 * [apcu](https://pecl.php.net/package/APCu) (5.1.18)
 * [xdebug](https://xdebug.org/) (2.9.2)
