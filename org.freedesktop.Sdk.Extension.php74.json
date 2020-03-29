@@ -55,13 +55,6 @@
 					"type": "archive",
 					"url": "https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.4.49.tgz",
 					"sha256": "e3b117944b4180f23befe87d0dcf47f29de775befbc469dcf4ac3dab3311e56e"
-				},
-				{
-					"type": "patch",
-					"path": "openldap-aarch64.patch",
-					"only-arches": [
-						"aarch64"
-					]
 				}
 			],
 			"post-install": [
