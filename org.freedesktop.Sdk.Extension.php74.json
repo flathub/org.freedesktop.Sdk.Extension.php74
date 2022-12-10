@@ -214,8 +214,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-7.4.32.tar.xz",
-                    "sha256": "323332c991e8ef30b1d219cb10f5e30f11b5f319ce4c6642a5470d75ade7864a",
+                    "url": "https://www.php.net/distributions/php-7.4.33.tar.xz",
+                    "sha256": "924846abf93bc613815c55dd3f5809377813ac62a9ec4eb3778675b82a27b927",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=7.4&max=1",
@@ -275,8 +275,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.1.5.tgz",
-                    "sha256": "55f6ef381245da079b2fc5ce1cfbcb7961197d0c0e04f9d977613cf9aa969a79",
+                    "url": "https://xdebug.org/files/xdebug-3.2.0.tgz",
+                    "sha256": "7769b20eecdadf5fbe9f582512c10b394fb575b6f7a8c3a3a82db6883e0032b7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
@@ -305,8 +305,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.4.2/composer.phar",
-                    "sha256": "8fe98a01050c92cc6812b8ead3bd5b6e0bcdc575ce7a93b242bde497a31d7732",
+                    "url": "https://getcomposer.org/download/2.4.4/composer.phar",
+                    "sha256": "c252c2a2219956f88089ffc242b42c8cb9300a368fd3890d63940e4fc9652345",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
